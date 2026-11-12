@@ -1,0 +1,44 @@
+# Erset Platform — static hosting (Apache / cPanel) configuration
+
+# Custom 404
+ErrorDocument 404 /404.html
+
+# Follow symlinks, no directory listing
+Options -Indexes +FollowSymLinks
+
+<IfModule mod_headers.c>
+  # Long cache for hashed, immutable build assets
+  <FilesMatch "\.(css|js|woff2?|ttf|otf|avif|webp|png|jpe?g|svg|ico)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+  # HTML should always revalidate
+  <FilesMatch "\.html$">
+    Header set Cache-Control "public, max-age=0, must-revalidate"
+  </FilesMatch>
+  # Basic security headers
+  Header set X-Content-Type-Options "nosniff"
+  Header set X-Frame-Options "SAMEORIGIN"
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+
+# Gzip / deflate compression
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/css text/javascript \
+    application/javascript application/json application/xml image/svg+xml
+</IfModule>
+
+# Correct MIME types
+<IfModule mod_mime.c>
+  AddType image/webp .webp
+  AddType image/avif .avif
+  AddType font/woff2 .woff2
+</IfModule>
+
+# --- Optional: force HTTPS + non-www (uncomment on the live server) ---
+# <IfModule mod_rewrite.c>
+#   RewriteEngine On
+#   RewriteCond %{HTTPS} off [OR]
+#   RewriteCond %{HTTP_HOST} ^www\. [NC]
+#   RewriteCond %{HTTP_HOST} ^(?:www\.)?(.+)$ [NC]
+#   RewriteRule ^ https://%1%{REQUEST_URI} [L,R=301]
+# </IfModule>

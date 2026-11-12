@@ -7,24 +7,23 @@
 > patented mechanical parachute safety brakes, high-torque planetary drive systems,
 > high-strength masts, modular cabins and fault-display control systems.
 
-## Products — Platform Scaffolding (ERP series)
-- [ERP 1050 — Single-tower work platform](https://erset.com.tr/en/urunler/erp-1050): 1,000 kg capacity, up to 120 m, 10.5 m platform.
-- [ERP 3000 — Dual-tower work platform](https://erset.com.tr/en/urunler/erp-3000): 3,000 kg capacity, up to 120 m, 30 m platform.
-- [ERP 4000 — Dual-tower work platform](https://erset.com.tr/en/urunler/erp-4000): 3,000 kg capacity, up to 200 m, 40 m platform.
+## Products — Platform Scaffolding (ERP series, 2022 catalogue)
+- [ERP 1050 — Single-mast work platform](https://erset.com.tr/en/urunler/erp-1050): 1,500 kg, 13.5 m platform, 120 m standard or 250 m ultra-high.
+- [ERP 3000 — Twin-mast work platform](https://erset.com.tr/en/urunler/erp-3000): 3,000 kg, 30 m platform, 120 m standard or 250 m ultra-high.
+- [ERP 4000 — Twin-mast work platform](https://erset.com.tr/en/urunler/erp-4000): 3,000 kg, 30 m platform, up to 250 m.
 
-## Products — Hoists (ERY series)
-- [ERY 250 — Material hoist](https://erset.com.tr/en/urunler/ery-250): 250 kg, 2 persons, up to 100 m.
-- [ERY 1500-450 — Material hoist](https://erset.com.tr/en/urunler/ery-1500-450): 1,500 kg, 15 persons, up to 200 m.
-- [ERY 2000-450 — Material hoist](https://erset.com.tr/en/urunler/ery-2000-450): 2,000 kg, 22 persons, up to 200 m.
-- [ERY 2000-650 — Material hoist](https://erset.com.tr/en/urunler/ery-2000-650): 2,000 kg, reinforced mast, triple-motor.
-- [ERY 2500-650 — Passenger & material hoist](https://erset.com.tr/en/urunler/ery-2500-650): 2,500 kg, up to 250 m.
-- [ERY 3000-4000-5000 — Heavy material hoist](https://erset.com.tr/en/urunler/ery-3000-4000-5000): 3,000–5,000 kg capacity range.
+## Products — Hoists (ERY series, 2022 catalogue)
+- [ERY 1000 — Construction hoist](https://erset.com.tr/en/urunler/ery-1000): 1,000 kg, up to 120 m.
+- [ERY 2000-450 — Construction hoist](https://erset.com.tr/en/urunler/ery-2000-450): 2,000 kg, up to 200 m.
+- [ERY 2000-650 — Double-cabin hoist](https://erset.com.tr/en/urunler/ery-2000-650): 2,000 kg per cabin, up to 250 m.
+- [ERY 2500-650 — Construction hoist](https://erset.com.tr/en/urunler/ery-2500-650): 2,500 kg, up to 250 m.
+- [ERY 3000/4000/5000 — Material transport hoist](https://erset.com.tr/en/urunler/ery-3000-4000-5000): 3,000, 4,000 and 5,000 kg configurations.
+- [ERY 250 — Tower crane lift](https://erset.com.tr/en/urunler/ery-250): 250 kg, two people, up to 100 m.
 
 ## Key pages
 - [Home (TR)](https://erset.com.tr/) · [Home (EN)](https://erset.com.tr/en)
 - [Company / About](https://erset.com.tr/en/kurumsal)
 - [All products](https://erset.com.tr/en/urunler)
-- [References](https://erset.com.tr/en/referanslar)
 - [Certificates](https://erset.com.tr/en/sertifikalar)
 - [Contact](https://erset.com.tr/en/iletisim)
 
